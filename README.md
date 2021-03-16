@@ -6,4 +6,5 @@ A quick starter to get you going with Vite, Vue, and Tailwind's JIT compiler.
 1. Clone repository
 ``` git clone https://github.com/skoontastic/vite-vue-tailwind-jit-starter.git ```
 2. ``` cd vite-vue-tailwind-jit-starter```
-3. ``` yarn dev ```
+3. ``` yarn ```
+4. ``` yarn dev ```
