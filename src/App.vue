@@ -1,7 +1,7 @@
 <template>
 <div class="flex flex-col items-center justify-center h-full mx-auto max-w-7xl">
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <HelloWorld msg="Hello Vue 3 + Vite + TailwindCSS JIT" />
 
 </div>
 </template>
