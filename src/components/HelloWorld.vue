@@ -2,7 +2,7 @@
     <div class="space-y-4 font-sans text-center">
         <h1 class="text-5xl font-bold">{{ msg }}</h1>
 
-        <div class="flex divide-x-2 divide-green-100 ">
+        <div class="flex divide-x-2 divide-green-100">
             <a
                 class="px-2 text-green-600 hover:underline"
                 href="https://vitejs.dev/guide/features.html"
